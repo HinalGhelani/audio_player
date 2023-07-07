@@ -1,16 +1,9 @@
-# play_list
+# Play_list
 
-A new Flutter project.
+## Screenshot
 
-## Getting Started
+<img src = "https://github.com/HinalGhelani/audio_player/assets/121785230/0b2bed8a-59fe-4dfc-b881-14d458c904c0" height = "500px"/>
+<img src = "https://github.com/HinalGhelani/audio_player/assets/121785230/9b33e945-e73d-4b17-923d-68735cfd842a" height = "500px"/>
 
-This project is a starting point for a Flutter application.
+https://github.com/HinalGhelani/audio_player/assets/121785230/7c5f3a7f-2369-4ba1-85dc-a7832bd386b8
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
